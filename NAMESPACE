@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import("BiasedUrn")
+import("mvtnorm")
+importFrom("stats","convolve")
+importFrom("stats", "pnorm")

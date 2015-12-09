@@ -1,0 +1,14 @@
+b108ca6c385a1cab1c048eed34d98b09 *DESCRIPTION
+0b841dd5d15c871cd6414387e6d6279b *NAMESPACE
+8b3150a01e74e6dd61f24a0867542c9e *R/adaptmh.R
+c2a2fc4e00238d8f249e9e85fe93f2a0 *R/adaptmhLS.R
+644bdeca636501d02605794024e4e400 *R/gconv.R
+914ad0625662b04c764db9d283531a3d *R/mh.R
+9363685bf6c0620266cb7f0d403736e9 *R/mhLS.R
+b9f03e1c831d8d0d54683bd9cd2ed665 *R/mhWeighted.R
+9683c3e99a36be99c0a8062a13635acc *man/adaptmh.Rd
+e3f37e6fefe0da6a3edb42434b1c0aa7 *man/adaptmhLS.Rd
+ad760c1e640d2d71556ae50cf8f2dd34 *man/gconv.Rd
+7156a2eb2342bf4e3dc3eccab6188fea *man/mh.Rd
+1355104dee220bbd849aa86b5ea181b9 *man/mhLS.Rd
+22cd0df2fa207113c783e4ef943e0bd7 *man/mhWeighted.Rd
